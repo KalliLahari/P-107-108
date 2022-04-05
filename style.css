@@ -1,0 +1,27 @@
+body
+{
+  font-family: 'Aguafina Script', cursive;
+  background: #2ce69e;
+}
+
+.header_div
+  {
+  background: #23ddeb;
+  color: white; 
+  }
+
+  .header_div p{
+    font-family: 'Patrick Hand', cursive;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  .main_div button{
+    font-family: 'Courgette', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+  }
+  .footer_div{
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+  }
